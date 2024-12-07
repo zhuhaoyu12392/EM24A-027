@@ -1,0 +1,37 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: This is ZHANGQIUSHENG's GitHub
+    - icon: github
+      text: Github
+      href: This is zhangqiusheng's GitHub
+    - icon: linkedin
+      text: LinkedIn
+      href: This is zhangqiushengs GitHub
+    - icon: envelope
+      text: Email
+      href: This is zhangqiusheng's GitHub
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+Hello everyone, my name is Zhang Qiusheng and I am delighted to introduce myself here.
+I am an optimistic and positive person who loves life. Autumn "represents maturity and harvest, while" life "symbolizes vitality and hope. I think my parents chose this name for me in the hope that I can have both the calm and introverted qualities of autumn and the vigorous vitality of life on the road of life. This symbolism has always inspired me to maintain a positive and proactive attitude when facing various challenges in life.
+In terms of hobbies, I have a strong interest in reading. I can't put down literary classics, historical biographies, or science fiction novels. Immersed in the world of books, I feel like I can travel through time and space, converse with wise people from all over the world, and experience the charm and collision of different cultures and ideas. Reading not only enriches my knowledge reserve, but also broadens my horizons, allowing me to learn how to approach problems from different perspectives.
+In addition, I am also passionate about sports, especially jogging. Every morning, facing the first ray of sunshine, running in the park or on the street, feeling the sweat and the acceleration of my heart, is a kind of enjoyment for me. Slow jogging not only exercises my body and enhances my physical fitness, but also cultivates my perseverance and self-discipline. Of course, I went there in summer because winter is too cold.
+I always maintain a serious and responsible attitude in both my studies and work. I strive to learn professional knowledge, constantly improve my skills, and strive to be the best in my field. I am good at communicating and collaborating with others, and I believe that the power of teamwork is infinite. Through cooperation with others, I can learn more experience and methods, thus better completing tasks.
+I am well aware of my many shortcomings, but I am not afraid to face them. I believe that as long as we maintain a humble and eager to learn attitude, constantly strive and improve, we can definitely become a better version of ourselves. This is me, an ordinary yet unique Zhang Qiusheng.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">zhangqiushengzhangqiushengzhangqiusheng</a>
+</div>
+```
+
