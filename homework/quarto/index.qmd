@@ -1,0 +1,35 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: This is zhuhaoyu's GitHub
+    - icon: github
+      text: Github
+      href: This is zhuhaoyu's GitHub
+    - icon: linkedin
+      text: LinkedIn
+      href: This is zhuhaoyu's GitHub
+    - icon: envelope
+      text: Email
+      href: This is zhuhaoyu's GitHub
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+Hello everyone, my name is Zhu Pianyu and I am an ordinary but passionate student.
+I have an outgoing personality and enjoy making friends. On campus, I always actively participate in various collective activities, whether it's the class sports meet or group discussions on homework, my active figure can be seen. I firmly believe that friendship is a precious treasure in life. Through interacting with friends, I have learned to understand, tolerate, and share.
+I have a strong desire for knowledge in my studies. In class, I listened attentively, like a sponge, striving to absorb the knowledge nutrients imparted by the teacher. After class, I also enjoy soaking in the library and exploring unknown territories in the ocean of books. I have a strong interest in mathematics, physics, and chemistry. In my eyes, those complex formulas and wonderful problem-solving ideas are like puzzles waiting to be solved, attracting me to constantly delve into them. Although the learning process is not always smooth sailing, I never give up easily. When encountering difficulties, I will actively seek advice from teachers and classmates, and strive to understand and master every knowledge point.
+Besides studying, I also love sports. Basketball is my favorite, the feeling of running and shooting on the court fills me with vitality. Every cooperation with teammates and every attempt to break through myself has made me realize the power of teamwork and perseverance.
+I know there are still many areas where I need to grow and improve, but I will always maintain this simplicity and sincerity, and face future challenges with a positive attitude. I believe that as long as I work hard step by step, I will be able to shine uniquely on my own path.
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">zhuhaoyuzhuhaoyuzhuhaoyu</a>
+</div>
+```
+
