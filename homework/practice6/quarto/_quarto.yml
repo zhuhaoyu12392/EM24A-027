@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "zhangqiusheng"                                # Your name
-  description: "about　zhangqiusheng"   # A brief slogan (optional)
+  title: "zhuhaoyu"                                # Your name
+  description: "about　zhuhaoyu"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -27,11 +27,11 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">zhangqiushengzhangqiushengzhangqiusheng</span>
+      <span class="faux-block">zhuhaoyuzhuhaoyuzhuhaoyu</span>
     center: |
       <span class="faux-block"><a href="">empty</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/200008184536xyz/ZhangQiuSheng">This is zhangqiusheng's GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/zhuhaoyu12392/EM24A-027">This is zhuhaoyu's GitHub</a></span>
 
 project:
   type: website
